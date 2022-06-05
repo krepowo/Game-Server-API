@@ -1,6 +1,6 @@
 # Game-Server-API
 
-Check you game server in web-browser without entering or installing the game.
+Check your game server in web-browser without entering or installing the game.
 
 # Install
 
