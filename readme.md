@@ -27,9 +27,9 @@ Default port is 3000, you can change it in config.json.
 # How to use
 Base url: http://localhost:3000/
 
-| Method | params           | return      |
-| ------ | ---------------- | ----------- |
-| `GET`  | `game, ip, port` | server info |
+| Method | Params           | Return             |
+| ------ | ---------------- | ------------------ |
+| `GET`  | `game, ip, port` | server info object |
 
 Example:
 ```
