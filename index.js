@@ -15,6 +15,7 @@ app.get("/", (req, res) => {
         type: game,
         host: ip,
         port: port,
+        maxAttempts: 3
     }).then(jawab => {
         res.send(jawab);
     }).catch(error => {
